@@ -5,6 +5,9 @@
 - [x] 压缩 js、wxss、wxml、json、jpg、png... （官方上传应该会做这步。。）
 - [x] 监听、按需编译、热更新
 - [ ] eslint 代码格式检查
+- [x] 整合 vant
+
+请将整个项目导入微信开发者工具
 
 ## install
 
