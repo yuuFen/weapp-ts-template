@@ -1,5 +1,7 @@
 # Weapp TypeScript Template
 
+> 示例项目：[zjgsu-map (https://github.com/yuuFen/zjgsu-map)](https://github.com/yuuFen/zjgsu-map)
+
 - [x] 微信官方 typing
 - [x] 编译解析 ts、less、
 - [x] 压缩 js、wxss、wxml、json、jpg、png... （官方上传应该会做这步。。）
